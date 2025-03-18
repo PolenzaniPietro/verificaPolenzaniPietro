@@ -1,0 +1,14 @@
+C:\Users\polenzani.pietro\Desktop\verificaPolenzaniPietro\verificaPolenzaniPietro\bin\Debug\net7.0\verificaPolenzaniPietro.exe
+C:\Users\polenzani.pietro\Desktop\verificaPolenzaniPietro\verificaPolenzaniPietro\bin\Debug\net7.0\verificaPolenzaniPietro.deps.json
+C:\Users\polenzani.pietro\Desktop\verificaPolenzaniPietro\verificaPolenzaniPietro\bin\Debug\net7.0\verificaPolenzaniPietro.runtimeconfig.json
+C:\Users\polenzani.pietro\Desktop\verificaPolenzaniPietro\verificaPolenzaniPietro\bin\Debug\net7.0\verificaPolenzaniPietro.dll
+C:\Users\polenzani.pietro\Desktop\verificaPolenzaniPietro\verificaPolenzaniPietro\bin\Debug\net7.0\verificaPolenzaniPietro.pdb
+C:\Users\polenzani.pietro\Desktop\verificaPolenzaniPietro\verificaPolenzaniPietro\obj\Debug\net7.0\verificaPolenzaniPietro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polenzani.pietro\Desktop\verificaPolenzaniPietro\verificaPolenzaniPietro\obj\Debug\net7.0\verificaPolenzaniPietro.AssemblyInfoInputs.cache
+C:\Users\polenzani.pietro\Desktop\verificaPolenzaniPietro\verificaPolenzaniPietro\obj\Debug\net7.0\verificaPolenzaniPietro.AssemblyInfo.cs
+C:\Users\polenzani.pietro\Desktop\verificaPolenzaniPietro\verificaPolenzaniPietro\obj\Debug\net7.0\verificaPolenzaniPietro.csproj.CoreCompileInputs.cache
+C:\Users\polenzani.pietro\Desktop\verificaPolenzaniPietro\verificaPolenzaniPietro\obj\Debug\net7.0\verificaPolenzaniPietro.dll
+C:\Users\polenzani.pietro\Desktop\verificaPolenzaniPietro\verificaPolenzaniPietro\obj\Debug\net7.0\refint\verificaPolenzaniPietro.dll
+C:\Users\polenzani.pietro\Desktop\verificaPolenzaniPietro\verificaPolenzaniPietro\obj\Debug\net7.0\verificaPolenzaniPietro.pdb
+C:\Users\polenzani.pietro\Desktop\verificaPolenzaniPietro\verificaPolenzaniPietro\obj\Debug\net7.0\verificaPolenzaniPietro.genruntimeconfig.cache
+C:\Users\polenzani.pietro\Desktop\verificaPolenzaniPietro\verificaPolenzaniPietro\obj\Debug\net7.0\ref\verificaPolenzaniPietro.dll
